@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="416dp"
+        android:layout_height="226dp"
+        app:srcCompat="@drawable/ic_rectangle_24"
+        tools:layout_editor_absoluteX="-3dp"
+        tools:layout_editor_absoluteY="1dp" />
+
+    <ImageView
+        android:id="@+id/imageView14"
+        android:layout_width="412dp"
+        android:layout_height="508dp"
+        app:srcCompat="@drawable/ic_rectangle_25"
+        tools:layout_editor_absoluteX="-2dp"
+        tools:layout_editor_absoluteY="227dp" />
+
+    <ImageView
+        android:id="@+id/imageView15"
+        android:layout_width="130dp"
+        android:layout_height="49dp"
+        app:srcCompat="@drawable/ic_rectangle_27"
+        tools:layout_editor_absoluteX="245dp"
+        tools:layout_editor_absoluteY="621dp" />
+
+    <ImageView
+        android:id="@+id/imageView9"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ic_rectangle_26"
+        tools:layout_editor_absoluteX="64dp"
+        tools:layout_editor_absoluteY="173dp" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="247dp"
+        android:layout_height="160dp"
+        app:srcCompat="@mipmap/ic_launcher_foreground"
+        tools:layout_editor_absoluteX="93dp"
+        tools:layout_editor_absoluteY="119dp" />
+
+    <ImageView
+        android:id="@+id/imageView10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ic_donal_trump"
+        tools:layout_editor_absoluteX="148dp"
+        tools:layout_editor_absoluteY="263dp" />
+
+    <ImageView
+        android:id="@+id/imageView11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ic_donald_trump_is_closely_associated_with_the_sport_of_golf__as_a_real_estate_developer__trump_began_acquiring_and_constructing_golf_courses_in_1999__1_"
+        tools:layout_editor_absoluteX="80dp"
+        tools:layout_editor_absoluteY="310dp" />
+
+    <ImageView
+        android:id="@+id/imageView12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ic_full_stack_developer__android_ui"
+        tools:layout_editor_absoluteX="93dp"
+        tools:layout_editor_absoluteY="293dp" />
+
+    <ImageView
+        android:id="@+id/imageView13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ic_new_york__usa"
+        tools:layout_editor_absoluteX="157dp"
+        tools:layout_editor_absoluteY="394dp" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="1dp"
+        android:layout_marginBottom="1dp"
+        app:layout_constraintBottom_toBottomOf="@+id/imageView15"
+        app:layout_constraintTop_toTopOf="@+id/imageView15"
+        app:layout_constraintVertical_bias="1.0"
+        app:srcCompat="@drawable/ic_rectangle_27"
+        tools:layout_editor_absoluteX="38dp" />
+
+    <ImageView
+        android:id="@+id/imageView16"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ic_portfolio"
+        tools:layout_editor_absoluteX="58dp"
+        tools:layout_editor_absoluteY="634dp" />
+
+    <ImageView
+        android:id="@+id/imageView17"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ic_hire_me"
+        tools:layout_editor_absoluteX="274dp"
+        tools:layout_editor_absoluteY="634dp" />
+
+    <ImageView
+        android:id="@+id/imageView18"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ic___8"
+        tools:layout_editor_absoluteX="93dp"
+        tools:layout_editor_absoluteY="496dp" />
+
+    <ImageView
+        android:id="@+id/imageView19"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ic__78"
+        tools:layout_editor_absoluteX="274dp"
+        tools:layout_editor_absoluteY="496dp" />
+
+    <ImageView
+        android:id="@+id/imageView20"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ic_rating"
+        tools:layout_editor_absoluteX="88dp"
+        tools:layout_editor_absoluteY="536dp" />
+
+    <ImageView
+        android:id="@+id/imageView21"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ic_projects"
+        tools:layout_editor_absoluteX="272dp"
+        tools:layout_editor_absoluteY="536dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
